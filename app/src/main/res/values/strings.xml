@@ -3,4 +3,5 @@
     <string name="test_string">TestString</string>
     <string name="second_test_string">SecondTestString</string>
     <string name="third_test_string">ThirdTestString</string>
+    <string name="fourth_test_string">FourthTestString</string>
 </resources>
