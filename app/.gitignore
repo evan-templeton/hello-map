@@ -84,4 +84,4 @@ lint/outputs/
 lint/tmp/
 
 # Strings
-app/src/main/res/values/strings.xml
+src/main/res/values/
