@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">HelloMap</string>
+    <string name="test_string">TestString</string>
 </resources>
